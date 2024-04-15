@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "title":"Rent"
+    },
+    {
+        "id":2,
+        "title":"Buy"
+    },
+    {
+        "id":3,
+        "title":"Sale"
+    },
+    {
+        "id":4,
+        "title":"Appartments"
+    },
+    {
+        "id":5,
+        "title":"Villas"
+    },
+    {
+        "id":6,
+        "title":"Commercial"
+    },
+    {
+        "id":7,
+        "title":"Offices"
+    }
+]

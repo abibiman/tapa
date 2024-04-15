@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "icon":"flaticon-pin",
+        "title":"Company Locations",
+        "value":2
+    },
+    {
+        "id":2,
+        "icon":"flaticon-employee",
+        "title":"Specialized Engineers",
+        "value":152
+    },
+    {
+        "id":3,
+        "icon":"flaticon-star-1",
+        "title":"Years Of Experience",
+        "value":56
+    },
+    {
+        "id":4,
+        "icon":"flaticon-skyline",
+        "title":"Complete Projects",
+        "value":106
+    }
+]

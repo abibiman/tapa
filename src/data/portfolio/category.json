@@ -1,0 +1,46 @@
+[
+    {
+        "id":1,
+        "title":"Building"
+    },
+    {
+        "id":2,
+        "title":"Commercial Building"
+    },
+    {
+        "id":3,
+        "title":"Roads"
+    },
+    {
+        "id":4,
+        "title":"Factories"
+    },
+    {
+        "id":5,
+        "title":"Airpots"
+    },
+    {
+        "id":6,
+        "title":"Hospitals"
+    },
+    {
+        "id":7,
+        "title":"School / Collages"
+    },
+    {
+        "id":8,
+        "title":"Power Plants"
+    },
+    {
+        "id":9,
+        "title":"Flyovers"
+    },
+    {
+        "id":10,
+        "title":"Railways"
+    },
+    {
+        "id":11,
+        "title":"Metros"
+    }
+]

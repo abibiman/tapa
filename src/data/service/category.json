@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "title":"Home Maintenance",
+        "icon":"assets/images/svg/home-main.svg"
+    },
+    {
+        "id":2,
+        "title":"General Construction",
+        "icon":"assets/images/svg/gen-const.svg"
+    },
+    {
+        "id":3,
+        "title":"Restructed",
+        "icon":"assets/images/svg/restructer.svg"
+    },
+    {
+        "id":4,
+        "title":"Project Management",
+        "icon":"assets/images/svg/project-m.svg"
+    }
+]

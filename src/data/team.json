@@ -1,0 +1,134 @@
+[
+    {
+        "id":1,
+        "name":"Tony Stark",
+        "post":"Agent",
+        "image":"assets/images/homepage-1/agent-1.jpg",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "social":[
+            {
+                "icon":"fab fa-youtube",
+                "title":"YouTube",
+                "url":"/",
+                "iconClass":"youtube"
+            },
+            {
+                "icon":"fab fa-linkedin",
+                "title":"LinkedIn",
+                "url":"/",
+                "iconClass":"linkedin"
+            },
+            {
+                "icon":"fab fa-facebook-f",
+                "title":"Facebook",
+                "url":"/",
+                "iconClass":"facebook"
+            },
+            {
+                "icon":"fab fa-twitter",
+                "title":"Twitter",
+                "url":"/",
+                "iconClass":"twitter"
+            }
+        ]
+    },
+    {
+        "id":2,
+        "name":"Bob Haris",
+        "post":"Sales Executive",
+        "image":"assets/images/homepage-1/agent-2.jpg",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "social":[
+            {
+                "icon":"fab fa-youtube",
+                "title":"YouTube",
+                "url":"/",
+                "iconClass":"youtube"
+            },
+            {
+                "icon":"fab fa-linkedin",
+                "title":"LinkedIn",
+                "url":"/",
+                "iconClass":"linkedin"
+            },
+            {
+                "icon":"fab fa-facebook-f",
+                "title":"Facebook",
+                "url":"/",
+                "iconClass":"facebook"
+            },
+            {
+                "icon":"fab fa-twitter",
+                "title":"Twitter",
+                "url":"/",
+                "iconClass":"twitter"
+            }
+        ]
+    },
+    {
+        "id":3,
+        "name":"Jim Karry",
+        "post":"Builder",
+        "image":"assets/images/homepage-1/agent-3.jpg",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "social":[
+            {
+                "icon":"fab fa-youtube",
+                "title":"YouTube",
+                "url":"/",
+                "iconClass":"youtube"
+            },
+            {
+                "icon":"fab fa-linkedin",
+                "title":"LinkedIn",
+                "url":"/",
+                "iconClass":"linkedin"
+            },
+            {
+                "icon":"fab fa-facebook-f",
+                "title":"Facebook",
+                "url":"/",
+                "iconClass":"facebook"
+            },
+            {
+                "icon":"fab fa-twitter",
+                "title":"Twitter",
+                "url":"/",
+                "iconClass":"twitter"
+            }
+        ]
+    },
+    {
+        "id":4,
+        "name":"Alfred Jhon",
+        "post":"Sales Executive",
+        "image":"assets/images/homepage-1/agent-4.jpg",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "social":[
+            {
+                "icon":"fab fa-youtube",
+                "title":"YouTube",
+                "url":"/",
+                "iconClass":"youtube"
+            },
+            {
+                "icon":"fab fa-linkedin",
+                "title":"LinkedIn",
+                "url":"/",
+                "iconClass":"linkedin"
+            },
+            {
+                "icon":"fab fa-facebook-f",
+                "title":"Facebook",
+                "url":"/",
+                "iconClass":"facebook"
+            },
+            {
+                "icon":"fab fa-twitter",
+                "title":"Twitter",
+                "url":"/",
+                "iconClass":"twitter"
+            }
+        ]
+    }
+]

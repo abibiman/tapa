@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "image":"assets/images/clients/client1.png"
+    },
+    {
+        "id":2,
+        "image":"assets/images/clients/client2.png"
+    },
+    {
+        "id":3,
+        "image":"assets/images/clients/client3.png"
+    },
+    {
+        "id":4,
+        "image":"assets/images/clients/client2.png"
+    },
+    {
+        "id":5,
+        "image":"assets/images/clients/client3.png"
+    },
+    {
+        "id":6,
+        "image":"assets/images/clients/client1.png"
+    }
+]

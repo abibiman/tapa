@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "title":"1990 - 1999",
+        "items":{
+            "title":"Company Started",
+            "image":"assets/images/about-us/history3.jpg",
+            "subtitle":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "htmltext":"<p class='text-light-white mb-xl-20'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text. Lorem Ipsum has been the industry's standard dummy text.</p> <p class='text-light-white mb-xl-20'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>",
+            "list":[
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        }
+    },
+    {
+        "id":2,
+        "title":"2000 - 2009",
+        "items":{
+            "title":"Improved Company",
+            "image":"assets/images/about-us/history2.jpg",
+            "subtitle":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "htmltext":"<p class='text-light-white mb-xl-20'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text. Lorem Ipsum has been the industry's standard dummy text.</p> <p class='text-light-white mb-xl-20'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>",
+            "list":[
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        }
+    },
+    {
+        "id":3,
+        "title":"2010 - 2020",
+        "items":{
+            "title":"Delivering Results",
+            "image":"assets/images/about-us/history4.jpg",
+            "subtitle":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "htmltext":"<p class='text-light-white mb-xl-20'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text. Lorem Ipsum has been the industry's standard dummy text.</p> <p class='text-light-white mb-xl-20'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>",
+            "list":[
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        }
+    },
+    {
+        "id":4,
+        "title":"2020 - to",
+        "items":{
+            "title":"Open 3 New Branches",
+            "image":"assets/images/about-us/history1.jpg",
+            "subtitle":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "htmltext":"<p class='text-light-white mb-xl-20'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text. Lorem Ipsum has been the industry's standard dummy text.</p> <p class='text-light-white mb-xl-20'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>",
+            "list":[
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        }
+    }
+]

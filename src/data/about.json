@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "title":"Engineering",
+        "value":70
+    },
+    {
+        "id":2,
+        "title":"Architecture",
+        "value":80
+    },
+    {
+        "id":3,
+        "title":"Construction",
+        "value":75
+    }
+]

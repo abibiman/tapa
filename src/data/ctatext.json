@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "icon":"flaticon-architecture-and-city",
+        "title":"High Quality Construction",
+        "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+        "id":2,
+        "icon":"flaticon-360-degrees",
+        "title":"You can learn anything",
+        "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    }
+]

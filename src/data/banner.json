@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "title":"Empowering <span class='text-custom-blue'>Africa's</span>Future",
+        "text":"Join TAPA in transforming the lives of women and youth across Africa through education, health, and human development initiatives.",
+        "image":"assets/images/banner/a.jpg",
+        "position":"",
+        "textpos":""
+    },
+    {
+        "id":2,
+        "title":"Making a <span class='text-custom-blue'>Difference </span> Together",
+        "text":"Discover how TAPA's partnerships with governments, NGOs, and communities are addressing today’s most pressing challenges in Africa.",
+        "image":"assets/images/banner/b.jpg",
+        "position":"justify-content-center",
+        "textpos":"text-center"
+    },
+    {
+        "id":3,
+        "title":"Be a  <span class='text-custom-blue'>Part of the </span> Change",
+        "text":"Your support, time, and voice can make a real difference. Find out how you can join TAPA in empowering communities and shaping the future.",
+        "image":"assets/images/banner/c.jpg",
+        "position":"justify-content-end",
+        "textpos":"text-right"
+    }
+]

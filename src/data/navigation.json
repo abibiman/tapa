@@ -1,0 +1,195 @@
+[
+    {
+        "id": 1,
+        "linkText": "Home",
+        "child": false,
+        "submenu": [
+            {
+                "id": 1.1,
+                "link": "/",
+                "linkText": "Home v1"
+            },
+            {
+                "id": 1.2,
+                "link": "/home-v2",
+                "linkText": "Home v2"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "link": "/about",
+        "linkText": "About Us"
+    },
+    {
+        "id": 3,
+        "linkText": "News & Events",
+        "child": false,
+        "submenu": [
+            {
+                "id": 3.1,
+                "linkText": "Portfolio Grid",
+                "child": true,
+                "submenu": [
+                    {
+                        "id": 3.11,
+                        "linkText": "Grid Style",
+                        "link": "/portfolio-grid"
+                    },
+                    {
+                        "id": 3.12,
+                        "linkText": "Left Sidebar",
+                        "link": "/portfolio-grid-left"
+                    },
+                    {
+                        "id": 3.13,
+                        "linkText": "Right Sidebar",
+                        "link": "/portfolio-grid-right"
+                    }
+                ]
+            },
+            {
+                "id": 3.2,
+                "linkText": "Portfolio Details",
+                "child": true,
+                "submenu": [
+                    {
+                        "id": 3.21,
+                        "linkText": "Full Width",
+                        "link": "/portfolio-details/1"
+                    },
+                    {
+                        "id": 3.22,
+                        "linkText": "Left Sidebar",
+                        "link": "/portfolio-details-left/1"
+                    },
+                    {
+                        "id": 3.23,
+                        "linkText": "Right Sidebar",
+                        "link": "/portfolio-details-right/1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "linkText": "Membership",
+        "child": true,
+        "submenu": [
+            {
+                "id": 4.1,
+                "linkText": "Blog Grid",
+                "child": true,
+                "submenu": [
+                    {
+                        "id": 4.11,
+                        "linkText": "Grid Style",
+                        "link": "/blog"
+                    },
+                    {
+                        "id": 4.12,
+                        "linkText": "Left Sidebar",
+                        "link": "/blog-left"
+                    },
+                    {
+                        "id": 4.13,
+                        "linkText": "Right Sidebar",
+                        "link": "/blog-right"
+                    }
+                ]
+            },
+            {
+                "id": 4.2,
+                "linkText": "Blog Details",
+                "child": true,
+                "submenu": [
+                    {
+                        "id": 4.21,
+                        "linkText": "Full Width",
+                        "link": "/blog-details/1"
+                    },
+                    {
+                        "id": 4.22,
+                        "linkText": "Left Sidebar",
+                        "link": "/blog-details-left/1"
+                    },
+                    {
+                        "id": 4.23,
+                        "linkText": "Right Sidebar",
+                        "link": "/blog-details-right/1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "linkText": "Resources",
+        "child": false,
+        "submenu": [
+            {
+                "id": 5.1,
+                "link": "/shop",
+                "linkText": "Shop Grid"
+            },
+            {
+                "id": 5.2,
+                "link": "/shop-left",
+                "linkText": "Shop Left"
+            },
+            {
+                "id": 5.3,
+                "link": "/shop-right",
+                "linkText": "Shop Right"
+            },
+            {
+                "id": 5.4,
+                "link": "/shop-details/1",
+                "linkText": "Shop Details"
+            },
+            {
+                "id": 5.5,
+                "link": "/error-page",
+                "linkText": "404"
+            },
+            {
+                "id": 5.6,
+                "link": "/coming-soon",
+                "linkText": "Coming Soon"
+            },
+            {
+                "id": 5.7,
+                "link": "/faqs",
+                "linkText": "FAQ's"
+            },
+            {
+                "id": 5.8,
+                "link": "/gallery",
+                "linkText": "Gallery"
+            },
+            {
+                "id": 5.9,
+                "link": "/contact",
+                "linkText": "Contact Us"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "linkText": "Contact Us",
+        "child": false,
+        "submenu": [
+            {
+                "id": 6.1,
+                "link": "/service",
+                "linkText": "Service"
+            },
+            {
+                "id": 6.2,
+                "link": "/service-details/1",
+                "linkText": "Service Details"
+            }
+        ]
+    }
+]

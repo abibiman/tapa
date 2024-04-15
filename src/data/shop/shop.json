@@ -1,0 +1,506 @@
+[
+    {
+        "id": 1,
+        "title": "Boning rod",
+        "image": [
+            "assets/images/shop/product1.jpg",
+            "assets/images/shop/product2.jpg",
+            "assets/images/shop/product3.jpg",
+            "assets/images/shop/product4.jpg"
+        ],
+        "price": 345,
+        "discount": 10,
+        "rating": 5,
+        "category": [
+            1,
+            2
+        ],
+        "tags": [
+            1,
+            2
+        ],
+        "brands": [
+            "Conubia"
+        ],
+        "productcode": "D105",
+        "stock": true,
+        "additionalinfo": [
+            "Colors: Red, Yellow, Brown",
+            "Brand: Hewlett",
+            "Item Height: 18 Millimeters",
+            "Item Width: 31.4 Centimeters",
+            "Item Weight: 80 Kg",
+            "Item model number: MF841HN/A",
+            "SKU : FA1234YU",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum"
+        ],
+        "shorttext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "htmltext": "<p class='text-light-white desc'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>"
+    },
+    {
+        "id": 2,
+        "title": "Brick hammer",
+        "image": [
+            "assets/images/shop/product2.jpg",
+            "assets/images/shop/product3.jpg",
+            "assets/images/shop/product4.jpg",
+            "assets/images/shop/product5.jpg"
+        ],
+        "price": 232,
+        "discount": "",
+        "rating": 5,
+        "category": [
+            3,
+            4
+        ],
+        "tags": [
+            3,
+            4
+        ],
+        "brands": [
+            "Room Nest"
+        ],
+        "productcode": "D105",
+        "stock": true,
+        "additionalinfo": [
+            "Colors: Red, Yellow, Brown",
+            "Brand: Hewlett",
+            "Item Height: 18 Millimeters",
+            "Item Width: 31.4 Centimeters",
+            "Item Weight: 80 Kg",
+            "Item model number: MF841HN/A",
+            "SKU : FA1234YU",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum"
+        ],
+        "shorttext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "htmltext": "<p class='text-light-white desc'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>"
+    },
+    {
+        "id": 3,
+        "title": "Distance Calculator",
+        "image": [
+            "assets/images/shop/product3.jpg",
+            "assets/images/shop/product4.jpg",
+            "assets/images/shop/product5.jpg",
+            "assets/images/shop/product6.jpg"
+        ],
+        "price": 453,
+        "discount": 10,
+        "rating": 4,
+        "category": [
+            5,
+            6
+        ],
+        "tags": [
+            5,
+            6
+        ],
+        "brands": [
+            "DeveloScape"
+        ],
+        "productcode": "D105",
+        "stock": true,
+        "additionalinfo": [
+            "Colors: Red, Yellow, Brown",
+            "Brand: Hewlett",
+            "Item Height: 18 Millimeters",
+            "Item Width: 31.4 Centimeters",
+            "Item Weight: 80 Kg",
+            "Item model number: MF841HN/A",
+            "SKU : FA1234YU",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum"
+        ],
+        "shorttext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "htmltext": "<p class='text-light-white desc'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>"
+    },
+    {
+        "id": 4,
+        "title": "Circular saw",
+        "image": [
+            "assets/images/shop/product4.jpg",
+            "assets/images/shop/product5.jpg",
+            "assets/images/shop/product6.jpg",
+            "assets/images/shop/product1.jpg"
+        ],
+        "price": 743,
+        "discount": "",
+        "rating": 3,
+        "category": [
+            1,
+            7
+        ],
+        "tags": [
+            7,
+            8
+        ],
+        "brands": [
+            "Mexmy"
+        ],
+        "productcode": "D105",
+        "stock": true,
+        "additionalinfo": [
+            "Colors: Red, Yellow, Brown",
+            "Brand: Hewlett",
+            "Item Height: 18 Millimeters",
+            "Item Width: 31.4 Centimeters",
+            "Item Weight: 80 Kg",
+            "Item model number: MF841HN/A",
+            "SKU : FA1234YU",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum"
+        ],
+        "shorttext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "htmltext": "<p class='text-light-white desc'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>"
+    },
+    {
+        "id": 5,
+        "title": "Digging bar",
+        "image": [
+            "assets/images/shop/product5.jpg",
+            "assets/images/shop/product6.jpg",
+            "assets/images/shop/product1.jpg",
+            "assets/images/shop/product2.jpg"
+        ],
+        "price": 677,
+        "discount": 10,
+        "rating": 4,
+        "category": [
+            2,
+            3
+        ],
+        "tags": [
+            9,
+            10
+        ],
+        "brands": [
+            "BlueLadder"
+        ],
+        "productcode": "D105",
+        "stock": true,
+        "additionalinfo": [
+            "Colors: Red, Yellow, Brown",
+            "Brand: Hewlett",
+            "Item Height: 18 Millimeters",
+            "Item Width: 31.4 Centimeters",
+            "Item Weight: 80 Kg",
+            "Item model number: MF841HN/A",
+            "SKU : FA1234YU",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum"
+        ],
+        "shorttext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "htmltext": "<p class='text-light-white desc'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>"
+    },
+    {
+        "id": 6,
+        "title": "Hand saw",
+        "image": [
+            "assets/images/shop/product6.jpg",
+            "assets/images/shop/product1.jpg",
+            "assets/images/shop/product2.jpg",
+            "assets/images/shop/product3.jpg"
+        ],
+        "price": 245,
+        "discount": 10,
+        "rating": 5,
+        "category": [
+            4,
+            5
+        ],
+        "tags": [
+            11,
+            12
+        ],
+        "brands": [
+            "Conubia"
+        ],
+        "productcode": "D105",
+        "stock": true,
+        "additionalinfo": [
+            "Colors: Red, Yellow, Brown",
+            "Brand: Hewlett",
+            "Item Height: 18 Millimeters",
+            "Item Width: 31.4 Centimeters",
+            "Item Weight: 80 Kg",
+            "Item model number: MF841HN/A",
+            "SKU : FA1234YU",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum"
+        ],
+        "shorttext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "htmltext": "<p class='text-light-white desc'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>"
+    },
+    {
+        "id": 7,
+        "title": "Blade Cutter",
+        "image": [
+            "assets/images/shop/product1.jpg",
+            "assets/images/shop/product2.jpg",
+            "assets/images/shop/product3.jpg",
+            "assets/images/shop/product4.jpg"
+        ],
+        "price": 745,
+        "discount": "",
+        "rating": 4,
+        "category": [
+            6,
+            7
+        ],
+        "tags": [
+            13,
+            14
+        ],
+        "brands": [
+            "Room Nest"
+        ],
+        "productcode": "D105",
+        "stock": true,
+        "additionalinfo": [
+            "Colors: Red, Yellow, Brown",
+            "Brand: Hewlett",
+            "Item Height: 18 Millimeters",
+            "Item Width: 31.4 Centimeters",
+            "Item Weight: 80 Kg",
+            "Item model number: MF841HN/A",
+            "SKU : FA1234YU",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum"
+        ],
+        "shorttext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "htmltext": "<p class='text-light-white desc'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>"
+    },
+    {
+        "id": 8,
+        "title": "Paper Cutter",
+        "image": [
+            "assets/images/shop/product2.jpg",
+            "assets/images/shop/product3.jpg",
+            "assets/images/shop/product4.jpg",
+            "assets/images/shop/product5.jpg"
+        ],
+        "price": 345,
+        "discount": "",
+        "rating": 3,
+        "category": [
+            1,
+            2
+        ],
+        "tags": [
+            15,
+            16
+        ],
+        "brands": [
+            "DeveloScape"
+        ],
+        "productcode": "D105",
+        "stock": true,
+        "additionalinfo": [
+            "Colors: Red, Yellow, Brown",
+            "Brand: Hewlett",
+            "Item Height: 18 Millimeters",
+            "Item Width: 31.4 Centimeters",
+            "Item Weight: 80 Kg",
+            "Item model number: MF841HN/A",
+            "SKU : FA1234YU",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum"
+        ],
+        "shorttext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "htmltext": "<p class='text-light-white desc'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>"
+    },
+    {
+        "id": 9,
+        "title": "Hammer",
+        "image": [
+            "assets/images/shop/product3.jpg",
+            "assets/images/shop/product4.jpg",
+            "assets/images/shop/product5.jpg",
+            "assets/images/shop/product6.jpg"
+        ],
+        "price": 555,
+        "discount": "",
+        "rating": 3,
+        "category": [
+            3,
+            4
+        ],
+        "tags": [
+            17,
+            18
+        ],
+        "brands": [
+            "Mexmy"
+        ],
+        "productcode": "D105",
+        "stock": true,
+        "additionalinfo": [
+            "Colors: Red, Yellow, Brown",
+            "Brand: Hewlett",
+            "Item Height: 18 Millimeters",
+            "Item Width: 31.4 Centimeters",
+            "Item Weight: 80 Kg",
+            "Item model number: MF841HN/A",
+            "SKU : FA1234YU",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum"
+        ],
+        "shorttext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "htmltext": "<p class='text-light-white desc'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>"
+    },
+    {
+        "id": 10,
+        "title": "Cordless drill",
+        "image": [
+            "assets/images/shop/product4.jpg",
+            "assets/images/shop/product5.jpg",
+            "assets/images/shop/product6.jpg",
+            "assets/images/shop/product1.jpg"
+        ],
+        "price": 369,
+        "discount": 10,
+        "rating": 4,
+        "category": [
+            5,
+            6
+        ],
+        "tags": [
+            1,
+            2
+        ],
+        "brands": [
+            "BlueLadder"
+        ],
+        "productcode": "D105",
+        "stock": true,
+        "additionalinfo": [
+            "Colors: Red, Yellow, Brown",
+            "Brand: Hewlett",
+            "Item Height: 18 Millimeters",
+            "Item Width: 31.4 Centimeters",
+            "Item Weight: 80 Kg",
+            "Item model number: MF841HN/A",
+            "SKU : FA1234YU",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum"
+        ],
+        "shorttext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "htmltext": "<p class='text-light-white desc'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>"
+    },
+    {
+        "id": 11,
+        "title": "Tool Kit",
+        "image": [
+            "assets/images/shop/product5.jpg",
+            "assets/images/shop/product6.jpg",
+            "assets/images/shop/product1.jpg",
+            "assets/images/shop/product2.jpg"
+        ],
+        "price": 467,
+        "discount": "",
+        "rating": 3,
+        "category": [
+            1,
+            7
+        ],
+        "tags": [
+            3,
+            4
+        ],
+        "brands": [
+            "Conubia"
+        ],
+        "productcode": "D105",
+        "stock": true,
+        "additionalinfo": [
+            "Colors: Red, Yellow, Brown",
+            "Brand: Hewlett",
+            "Item Height: 18 Millimeters",
+            "Item Width: 31.4 Centimeters",
+            "Item Weight: 80 Kg",
+            "Item model number: MF841HN/A",
+            "SKU : FA1234YU",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum"
+        ],
+        "shorttext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "htmltext": "<p class='text-light-white desc'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>"
+    },
+    {
+        "id": 12,
+        "title": "Hand Saw",
+        "image": [
+            "assets/images/shop/product6.jpg",
+            "assets/images/shop/product1.jpg",
+            "assets/images/shop/product2.jpg",
+            "assets/images/shop/product3.jpg"
+        ],
+        "price": 857,
+        "discount": 10,
+        "rating": 4,
+        "category": [
+            2,
+            3
+        ],
+        "tags": [ 
+            5,
+            6
+        ],
+        "brands": [
+            "Room Nest"
+        ],
+        "productcode": "D105",
+        "stock": true,
+        "additionalinfo": [
+            "Colors: Red, Yellow, Brown",
+            "Brand: Hewlett",
+            "Item Height: 18 Millimeters",
+            "Item Width: 31.4 Centimeters",
+            "Item Weight: 80 Kg",
+            "Item model number: MF841HN/A",
+            "SKU : FA1234YU",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum",
+            "Lorem Ipsum"
+        ],
+        "shorttext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "htmltext": "<p class='text-light-white desc'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>"
+    }
+]
