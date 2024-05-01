@@ -12,7 +12,7 @@ class Content extends Component {
                         {gallery.map((item, i) => (
                             <div className="grid-item mb-xl-30 col-lg-4 col-sm-6" id={'masonry-item-' + i} key={i}>
                                 <a rel={"external"} href={item.image} className="gallery-thumb">
-                                    <img src={process.env.PUBLIC_URL + "/" + item.image} className="img-fluid full-width" alt="gallery" />
+                                    <img src={ item.image} className="img-fluid full-width" alt="gallery" />
                                 </a>
                             </div>
                         ))}

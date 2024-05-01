@@ -126,7 +126,7 @@ class Header extends NavHelper {
                                     <div className="right-side-2">
                                         <div className="cta-btn">
                                             <div className="cta-text">
-                                                <Link to="/contact" className="addlisting-btn btn-first btn-border">   Donate   </Link>
+                                                <Link to="#" className="addlisting-btn btn-first btn-border">   Donate   </Link>
                                             </div>
                                         </div>
                                     </div>

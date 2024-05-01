@@ -1,54 +1,38 @@
 [
     {
         "id":1,
-        "image":"assets/images/gallery/1.jpg"
+        "image":"https://res.cloudinary.com/devex/image/fetch/c_scale,f_auto,q_auto,w_720/https://lh3.googleusercontent.com/4uxhC-c-lJT0fAehHT4AesVyWGOwEKBcTKBaz9KgPthXYg0WaR6tsCrjUfwvvgq2hY6bJi0Kht85QSJJW64McVDzgGGPSTjH3aWH1u9jKKH7_2K1iC5ba93Dlg4kh5Vlog"
     },
     {
         "id":2,
-        "image":"assets/images/gallery/2.jpg"
+        "image":"https://img.freepik.com/premium-photo/team-young-african-people-office_219728-4389.jpg"
     },
     {
         "id":3,
-        "image":"assets/images/gallery/3.jpg"
+        "image":"https://media.licdn.com/dms/image/C4D1BAQEXnJoa98dq6g/company-background_10000/0/1583194482452/institute_of_energy_professionals_africa_npc_cover?e=2147483647&v=beta&t=WK1yglj3_tuSWF_Ss0K4Q1BPc7NKfj4CeDkEVvga_7g"
     },
     {
         "id":4,
-        "image":"assets/images/gallery/4.jpg"
+        "image":"https://imageio.forbes.com/specials-images/imageserve/6442dd2ee8775fcb5ba821c1/Beautiful-young-smiling-professional-black-african-business-woman-holding-laptop-/960x0.jpg?height=474&width=711&fit=bounds"
     },
     {
-        "id":5,
-        "image":"assets/images/gallery/5.jpg"
+        "id":1,
+        "image":"https://res.cloudinary.com/devex/image/fetch/c_scale,f_auto,q_auto,w_720/https://lh3.googleusercontent.com/4uxhC-c-lJT0fAehHT4AesVyWGOwEKBcTKBaz9KgPthXYg0WaR6tsCrjUfwvvgq2hY6bJi0Kht85QSJJW64McVDzgGGPSTjH3aWH1u9jKKH7_2K1iC5ba93Dlg4kh5Vlog"
     },
     {
-        "id":6,
-        "image":"assets/images/gallery/6.jpg"
+        "id":2,
+        "image":"https://img.freepik.com/premium-photo/team-young-african-people-office_219728-4389.jpg"
     },
     {
-        "id":7,
-        "image":"assets/images/gallery/7.jpg"
+        "id":3,
+        "image":"https://media.licdn.com/dms/image/C4D1BAQEXnJoa98dq6g/company-background_10000/0/1583194482452/institute_of_energy_professionals_africa_npc_cover?e=2147483647&v=beta&t=WK1yglj3_tuSWF_Ss0K4Q1BPc7NKfj4CeDkEVvga_7g"
     },
     {
-        "id":8,
-        "image":"assets/images/gallery/8.jpg"
+        "id":4,
+        "image":"https://imageio.forbes.com/specials-images/imageserve/6442dd2ee8775fcb5ba821c1/Beautiful-young-smiling-professional-black-african-business-woman-holding-laptop-/960x0.jpg?height=474&width=711&fit=bounds"
     },
     {
-        "id":9,
-        "image":"assets/images/gallery/9.jpg"
-    },
-    {
-        "id":10,
-        "image":"assets/images/gallery/10.jpg"
-    },
-    {
-        "id":11,
-        "image":"assets/images/gallery/11.jpg"
-    },
-    {
-        "id":12,
-        "image":"assets/images/gallery/12.jpg"
-    },
-    {
-        "id":13,
-        "image":"assets/images/gallery/13.jpg"
+        "id":2,
+        "image":"https://img.freepik.com/premium-photo/team-young-african-people-office_219728-4389.jpg"
     }
 ]

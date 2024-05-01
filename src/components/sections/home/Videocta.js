@@ -12,11 +12,11 @@ function Videocta(props) {
                 <div className="row no-gutters">
                     <div className="col-lg-6">
                         <div className="left-side animate-img full-height">
-                            <img src={process.env.PUBLIC_URL + "/assets/images/video1.jpg"} className="image-fit" alt="img" />
+                            <img src="https://static.wixstatic.com/media/447ef9_4197c2fa139544239fadb1a4f63b45ed~mv2.jpg/v1/fill/w_980,h_654,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/image007.jpg" className="image-fit" alt="img" />
                             <div className="service-text-2 bg-custom-black text-center">
-                                <h5 className="text-custom-white mb-1">Trusted By</h5>
+                                <h5 className="text-custom-white mb-1">Members</h5>
                                 <h2 className="no-margin text-custom-white">
-                                    <CountUp start={focus ? 0 : null} end={15090} duration={5} redraw={true}>
+                                    <CountUp start={focus ? 0 : null} end={1000} duration={5} redraw={true}>
                                         {({ countUpRef }) => (
                                             <VisibilitySensor
                                                 onChange={isVisible => {
@@ -31,19 +31,14 @@ function Videocta(props) {
                                     </CountUp>
                                     <span>+</span></h2>
                             </div>
-                            <div className="video-play-btn bg-custom-blue padding-10">
-                                <h4 className="text-custom-white no-margin fw-400">Play video</h4>
-                                <a rel={"external"} href={"https://www.youtube.com/watch?v=KH1pcNUTa6U"} className="popup-youtube">
-                                    <i className="fas fa-play" />
-                                </a>
-                            </div>
+
                         </div>
                     </div>
                     <div className="col-lg-6">
                         <div className="right-side custom-container">
                             <div className="text-wrapper">
-                                <h2 className="text-custom-white fw-600">We Provide Construction to Complex Problems &amp; all kinds Of Services Contact us today for best services.</h2>
-                                <p className="text-custom-white mb-xl-20 fs-16 fw-600">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>
+                                <h2 className="text-custom-white fw-600">One Africa, One Voice, One Vision   </h2>
+                                <p className="text-custom-white mb-xl-20 fs-16 fw-600">Empowering African communities through collaboration, innovation, and leadership in education and health.</p>
                                 <div className="row">
                                     {/* Data */}
                                     {ctatext.slice(0, 2).map((item, i) => (
@@ -59,7 +54,7 @@ function Videocta(props) {
                                     ))}
                                     {/* Data */}
                                 </div>
-                                <Link to="/contact" className="btn-first btn-border">Schedule An Appointment</Link>
+                                <Link to="/contact" className="btn-first btn-border">Interested? Join Us</Link>
                             </div>
                         </div>
                     </div>

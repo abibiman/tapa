@@ -8,12 +8,11 @@ class Faqs extends Component {
             <div className="faqs-box mb-md-80">
                 <div className="section-header">
                     <div className="section-heading">
-                        <h5 className="text-custom-blue">Our FAQs</h5>
-                        <h3 className="text-theme fw-700">Ask Some Q/A</h3>
+                        <h5 className="text-custom-blue"> FAQs</h5>
+                        <h3 className="text-theme fw-700"> Some Q/A</h3>
                     </div>
                     <div className="section-description">
-                        <p className="text-light-white">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                            Ipsum has been the industry's standard dummy text.</p>
+                            <p className="text-light-white">Welcome to our Frequently Asked Questions (FAQs) section! Here, you'll find answers to some of the most common questions our visitors have..</p>
                     </div>
                 </div>
                 <Accordion defaultActiveKey={1} className="custom-accordion">
@@ -24,7 +23,7 @@ class Faqs extends Component {
                                     <p className="text-theme no-margin">
                                         {item.text}
                                     </p>
-                                </Card.Body>
+                                </Card.Body>    
                             </Accordion.Collapse>
                             <Card.Header>
                                 <Accordion.Toggle as={Button} variant="link" eventKey={1 + i}>

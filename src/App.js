@@ -33,6 +33,11 @@ const Faqs = React.lazy(() => import("./components/pages/Faqs"));
 const Gallery = React.lazy(() => import("./components/pages/Gallery"));
 // Contact
 const Contact = React.lazy(() => import("./components/pages/Contact"));
+const Donate = React.lazy(() => import("./components/pages/Donate"));
+const News = React.lazy(() => import("./components/pages/News"));
+const Resources = React.lazy(() => import("./components/pages/Resources"));
+const Membership = React.lazy(() => import("./components/pages/Membership"));
+const Team = React.lazy(() => import("./components/pages/Team"));
 // Services
 const Services = React.lazy(() => import("./components/pages/Services"));
 const Servicedetails = React.lazy(() => import("./components/pages/Servicedetails"));
@@ -95,6 +100,11 @@ function App() {
             <Route exact path="/gallery" component={Gallery} />
             {/* Contact */}
             <Route exact path="/contact" component={Contact} />
+            <Route exact path="/donate" component={Donate} />
+            <Route exact path="/news" component={News} />
+            <Route exact path="/team" component={Team} />
+            <Route exact path="/resources" component={Resources} />
+            <Route exact path="/membership" component={Membership} />
             {/* Services */}
             <Route exact path="/service/cat/:catId" component={props => (<Services {...props} key={window.location.pathname} />)} />
             <Route exact path="/service/tag/:tagId" component={props => (<Services {...props} key={window.location.pathname} />)} />

@@ -8,11 +8,11 @@ class Ctainsta extends Component {
             <Fragment>
                 <div className="schdule-box">
                     <div className="left-side">
-                        <h6 className="text-custom-white">Schedule a Free Consultation 24/7</h6>
-                        <h4 className="text-custom-white no-margin">(+347) 123 456 7890</h4>
+                        <h6 className="text-custom-white">Got A Question?</h6>
+                        <h4 className="text-custom-white no-margin">(770) 330-2780</h4>
                     </div>
                     <div className="right-side">
-                        <Link to="/contact" className="btn-first btn-submit text-custom-white">Book Appointment</Link>
+                        <Link to="/contact" className="btn-first btn-submit text-custom-white">Contact Us</Link>
                     </div>
                 </div>
                 <div className="instagram-sec">
@@ -23,7 +23,7 @@ class Ctainsta extends Component {
                             <div className="col-md-4 col-6" key={i}>
                                 <div className="insta-img animate-img">
                                     <Link to="#">
-                                        <img src={process.env.PUBLIC_URL + "/" + item.image} className="image-fit" alt="img" />
+                                        <img src={ item.image} className="image-fit" alt="img" />
                                     </Link>
                                 </div>
                             </div>

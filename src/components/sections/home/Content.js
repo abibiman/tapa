@@ -22,28 +22,17 @@ class Content extends Component {
             <Fragment>
                 <Banner />
                 <Abouttext />
-                <Services />
+                {/* <Services /> */}
                 <Videocta />
-                <Portfolio />
+                {/* <Portfolio /> */}
                 <History />
-                <Pagecta />
-                <Filterservices />
-                <Team />
-                <Blogs />
-                <section className="client-tesimonial arrow-shape-1">
-                    <div className="container-fluid no-padding">
-                        <div className="row no-gutters">
-                            <div className="col-lg-6">
-                                <Testimonials />
-                            </div>
-                            <div className="col-lg-6">
-                                <Clients />
-                            </div>
-                        </div>
-                    </div>
-                </section>
+                {/* <Pagecta /> */}
+                {/* <Filterservices /> */}
+              
+                {/* <Blogs /> */}
+
                 <Partners />
-                <Downloadapp />
+                {/* <Downloadapp /> */}
                 <section className="section-padding">
                     <div className="container">
                         <div className="row">

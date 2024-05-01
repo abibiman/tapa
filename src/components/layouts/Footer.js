@@ -25,7 +25,7 @@ class Footer extends NavHelper {
                                             <Link to="/about" className="text-custom-white">About Us</Link>
                                         </li>
                                         <li>
-                                            <Link to="/blog" className="text-custom-white">Blog</Link>
+                                            <Link to="#" className="text-custom-white">Blog</Link>
                                         </li>
                                         <li>
                                             <Link to="/faqs" className="text-custom-white">FAQs</Link>
@@ -46,7 +46,7 @@ class Footer extends NavHelper {
                                         {instagram.slice(0, 6).map((item, i) => (
                                             <li className="insta-item animate-img" key={i}>
                                                 <Link to="#">
-                                                    <img src={process.env.PUBLIC_URL + "/" + item.image} className="img-fluid full-width" alt="insta" />
+                                                    <img src={ item.image} className="img-fluid full-width" alt="insta" />
                                                 </Link>
                                             </li>
                                         ))}
@@ -61,20 +61,15 @@ class Footer extends NavHelper {
                                     </div>
                                     <ul className="custom links">
                                         <li>
-                                            <Link to="/portfolio-details/1" className="text-custom-white">Portfolio</Link>
+                                            <Link to="/portfolio-details/1" className="text-custom-white">Programs</Link>
                                         </li>
                                         <li>
-                                            <Link to="#" className="text-custom-white">Cost Calculator</Link>
+                                            <Link to="#" className="text-custom-white">Our Team</Link>
                                         </li>
                                         <li>
                                             <Link to="/gallery" className="text-custom-white">Gallery</Link>
                                         </li>
-                                        <li>
-                                            <Link to="/error-page" className="text-custom-white">404</Link>
-                                        </li>
-                                        <li>
-                                            <Link to="/coming-soon" className="text-custom-white">Coming Soon</Link>
-                                        </li>
+                               
                                     </ul>
                                 </div>
                             </div>
@@ -86,7 +81,7 @@ class Footer extends NavHelper {
                                     <div className="newsletter">
                                         <form>
                                             <div className="form-group">
-                                                <input type="email" className="form-control form-control-custom" placeholder="Email Id" required />
+                                                <input type="email" className="form-control form-control-custom" placeholder="Email" required />
                                             </div>
                                             <button className="btn-first btn-submit btn-height" type="submit">Subscribe</button>
                                         </form>
@@ -118,7 +113,7 @@ class Footer extends NavHelper {
                                 </div>
                             </div>
                             <div className="col-lg-6">
-                                <p className="text-custom-white no-margin">© Website - 2021 | All Right Reserved. <Link to="#" className="text-custom-white">Designed By Your Company</Link></p>
+                                <p className="text-custom-white no-margin">© Website - 2024 | All Right Reserved. <Link to="#" className="text-custom-white">Powered By Techly Africa</Link></p>
                             </div>
                         </div>
                     </div>

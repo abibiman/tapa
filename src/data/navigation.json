@@ -1,21 +1,5 @@
 [
-    {
-        "id": 1,
-        "linkText": "Home",
-        "child": false,
-        "submenu": [
-            {
-                "id": 1.1,
-                "link": "/",
-                "linkText": "Home v1"
-            },
-            {
-                "id": 1.2,
-                "link": "/home-v2",
-                "linkText": "Home v2"
-            }
-        ]
-    },
+
     {
         "id": 2,
         "link": "/about",
@@ -24,6 +8,7 @@
     {
         "id": 3,
         "linkText": "News & Events",
+        "link": "/news",
         "child": false,
         "submenu": [
             {
@@ -73,9 +58,46 @@
         ]
     },
     {
+        "id": 1,
+        "linkText": "Our Team",
+        "link": "/team",
+        "child": false,
+        "submenu": [
+            {
+                "id": 1.1,
+                "link": "/",
+                "linkText": "Home v1"
+            },
+            {
+                "id": 1.2,
+                "link": "/home-v2",
+                "linkText": "Home v2"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "linkText": "Gallery",
+        "link": "/gallery",
+        "child": false,
+        "submenu": [
+            {
+                "id": 1.1,
+                "link": "/",
+                "linkText": "Home v1"
+            },
+            {
+                "id": 1.2,
+                "link": "/home-v2",
+                "linkText": "Home v2"
+            }
+        ]
+    },
+    {
         "id": 4,
         "linkText": "Membership",
-        "child": true,
+        "link": "/membership",
+        "child": false,
         "submenu": [
             {
                 "id": 4.1,
@@ -126,6 +148,7 @@
     {
         "id": 5,
         "linkText": "Resources",
+        "link": "/resources",
         "child": false,
         "submenu": [
             {
@@ -178,11 +201,12 @@
     {
         "id": 6,
         "linkText": "Contact Us",
+        "link": "/contact",
         "child": false,
         "submenu": [
             {
                 "id": 6.1,
-                "link": "/service",
+                "link": "/contact",
                 "linkText": "Service"
             },
             {

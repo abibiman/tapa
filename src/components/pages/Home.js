@@ -20,7 +20,7 @@ class Home extends Component {
                 </MetaTags>
                 <Header />
                 <Content />
-                <Quoteform />
+        
                 <Footer />
             </Fragment>
         );

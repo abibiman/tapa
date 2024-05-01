@@ -21,7 +21,7 @@ class Content extends Contacthelper {
                                             </div>
                                             <div className="col-md-6">
                                                 <div className="form-group">
-                                                    <input type="email" className="form-control form-control-custom" placeholder="Email I'd" name="email" value={this.state.email} onChange={this.onEmailChange.bind(this)} required />
+                                                    <input type="email" className="form-control form-control-custom" placeholder="Email" name="email" value={this.state.email} onChange={this.onEmailChange.bind(this)} required />
                                                 </div>
                                             </div>
                                             <div className="col-md-6">
@@ -36,7 +36,7 @@ class Content extends Contacthelper {
                                             </div>
                                             <div className="col-md-12">
                                                 <div className="form-group">
-                                                    <textarea className="form-control form-control-custom" rows={4} placeholder="Write Something.." name="message" value={this.state.message} onChange={this.onMessageChange.bind(this)} required />
+                                                    <textarea className="form-control form-control-custom" rows={4} placeholder="Request.." name="message" value={this.state.message} onChange={this.onMessageChange.bind(this)} required />
                                                 </div>
                                             </div>
                                             <div className="col-md-12">
@@ -53,25 +53,24 @@ class Content extends Contacthelper {
                             </div>
                             <div className="col-lg-5">
                                 <div className="contact-info">
-                                    <h4 className="text-theme fw-700">We’re Happy to Discuss Your Project and Answer any Question</h4>
+                                    <h4 className="text-theme fw-700">We’re Happy to  Answer any Question</h4>
                                     <ul className="custom">
                                         <li>
                                             <h5 className="text-theme fs-20"><i className="fas fa-map-marker-alt mr-2 text-custom-blue" />
                                                 Location</h5>
-                                            <p className="text-light-white no-margin fs-16">13th Street. 47 W 13th St, New York, NY 10011,
-                                                USA</p>
+                                            <p className="text-light-white no-margin fs-16">1726 Montreal Circle, Suite 210, Tucker, Georgia 30084</p>
                                         </li>
                                         <hr />
                                         <li>
                                             <h5 className="text-theme fs-20"><i className="fas fa-envelope mr-2 text-custom-blue" /> Email
                                             </h5>
-                                            <a rel={"external"} href={"mailto:example@example.com"} className="text-light-white fs-16">example@example.com</a>
+                                            <a rel={"external"} href={"mailto:example@example.com"} className="text-light-white fs-16">info@transafricaconsortium.org</a>
                                         </li>
                                         <hr />
                                         <li>
                                             <h5 className="text-theme fs-20"><i className="fas fa-phone-alt mr-2 text-custom-blue" /> Phone
                                                 No.</h5>
-                                            <a rel={"external"} href={"tel:+3471234567890"} className="text-light-white fs-16">(+347) 123 456 7890</a>
+                                            <a rel={"external"} href={"tel:+3471234567890"} className="text-light-white fs-16">(770) 330-2780</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -79,11 +78,7 @@ class Content extends Contacthelper {
                         </div>
                     </div>
                 </section>
-                {/* Start Contact map */}
-                <div className="contact-map">
-                    <iframe title="map" src="https://maps.google.com/maps?q=university%20of%20san%20francisco&t=&z=13&ie=UTF8&iwloc=&output=embed" />
-                </div>
-                {/* End Contact map */}
+
             </Fragment>
         );
     }

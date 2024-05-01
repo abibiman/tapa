@@ -13,7 +13,7 @@ class Partners extends Component {
                             <h3 className="text-theme fw-700">Our Valuable Partners</h3>
                         </div>
                         <div className="section-description">
-                            <p className="text-light-white">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>
+                            <p className="text-light-white"> Our diverse network of partners who collaborate with us to drive meaningful change across the Globe.</p>
                         </div>
                     </div>
                     <div className="row justify-content-center">

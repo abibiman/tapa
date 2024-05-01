@@ -8,45 +8,26 @@ class Abouttext extends Component {
             <section className="section-padding about-us">
                 <div className="container">
                     <div className="row">
-                        <div className="col-xl-5 col-lg-6">
-                            <div className="about-right-side p-relative mb-md-80">
-                                <img src={process.env.PUBLIC_URL + "/assets/images/homepage-1/about-us-410x450.jpg"} className="img-fluid full-width" alt="about" />
-                                <div className="about-meta">
-                                    <div className="meta-icon">
-                                        <img src={process.env.PUBLIC_URL + "/assets/images/banner-icon-01.png"} className="full-width" alt="img" />
-                                    </div>
-                                    <div className="meta-text">
-                                        <h4 className="text-custom-white no-margin fs-20">201 Awards winning constraction company</h4>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="col-xl-7 col-lg-6 align-self-center">
+
+                        <div className="col-xl-12 col-lg-12 align-self-center">
                             <div className="about-left-side p-relative">
                                 <div className="section-header">
                                     <div className="section-heading">
                                         <h5 className="text-custom-blue">About Us</h5>
-                                        <h3 className="text-theme fw-700">Our Story</h3>
+                                        <h3 className="text-theme fw-700">Trans Africa Professional Association</h3>
                                     </div>
                                 </div>
                                 <div className="about-desc">
                                     <p className="text-light-white mb-xl-20">
-                                        On the other hand, we denounce with righteous indignation the foult anuals dislike men who are so beguiled and demoralized by the nuhaiicharms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound toen sue; and equal blame belongs to those who fail in their duty...<Link to="/about" className="text-custom-blue">Read more</Link>
-                                    </p>
+
+                                    TAPA is a public, non-profit organization dedicated to enhancing the lives of African citizens, with a special focus on women and youth. As a professional network, our mission is to foster connections among experts and professionals across various sectors to collectively 
+                                    address critical issues in education, health, and human development.
+                                    Our approach involves providing essential resources and human services,
+                                     empowering individuals through personal development, enhancing interpersonal and professional skills, and cultivating entrepreneurial and technological capabilities. Our goal is to prepare individuals to be proactive and positive contributors in a technologically advanced, multicultural world.
+                                    TAPA collaborates with a broad spectrum of partners, including government agencies, non-governmental organizations, educational institutions, healthcare providers, businesses, and more. Together, we confront pressing health, social, economic, cultural, and environmental challenges through targeted educational programs, capacity building initiatives, human resource development, and research.
+                                    Looking ahead, TAPA is set to broaden its impact by establishing specialized centers and institutes across Africa and globally. These entities will focus on identifying local issues and offering tangible solutions, driving change and development throughout African communities and beyond.                                    </p>
                                 </div>
-                                <div className="company-progress">
-                                    {/* Data */}
-                                    {about.map((item, i) => (
-                                        <div className="progress-item" key={i}>
-                                            <label className="text-custom-black fs-16 fw-600">{item.title} <span>{item.value}%</span></label>
-                                            <div className="progress">
-                                                <div className="progress-bar progress-bar-striped active" style={{ width: item.value + '%' }}>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    ))}
-                                    {/* Data */}
-                                </div>
+
                             </div>
                         </div>
                     </div>

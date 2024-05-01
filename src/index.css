@@ -66,7 +66,7 @@ html{
     color: #fff;
 }
 .product-item-info .price span{
-    color: #fd5d14;
+    color: #7DCFE8;
     font-size: 16px;
     margin-right: 5px;
     text-decoration: none;
@@ -77,7 +77,7 @@ html{
     text-decoration: line-through;
 }
 .product-detail .property-details-wrap .new-price span{
-    color: #fd5d14;
+    color: #7DCFE8;
     font-size: 22px;
     font-weight: 600;
     margin-right: 5px;
@@ -113,14 +113,14 @@ ul.sub-menu {
     color: #fff;
 }
 .custom-accordion .card .collapseparent.show + .card-header .btn{
-    border-color: #fd5d14;
-    background: #fd5d14;
+    border-color: #7DCFE8;
+    background: #7DCFE8;
     color: #fff;
 }
 .custom-accordion .card .collapseparent.show + .card-header .btn::before{
     content: '-';
     background: #fff;
-    color: #fd5d14;
+    color: #7DCFE8;
 }
 .pagination{
     margin-top: -30px;

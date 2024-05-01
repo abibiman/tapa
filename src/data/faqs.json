@@ -1,52 +1,28 @@
 [
     {
         "id":1,
-        "title":"Personalized Service.",
-        "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        "title":"What is TAPA?",
+        "text":"TAPA is a non-profit organization focused on improving education, health, and human development in Africa, particularly for women and youth."
     },
     {
         "id":2,
-        "title":"24/7 support.",
-        "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        "title":"How does TAPA work?",
+        "text":"We collaborate with governments, NGOs, and other organizations to provide resources, develop skills, and implement solutions that address pressing challenges in African communities."
     },
     {
         "id":3,
-        "title":"Financing made easy.",
-        "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        "title":"Who can join TAPA?",
+        "text":"Professionals, including Africans in the Diaspora, students, and anyone dedicated to contributing to development efforts in Africa, are welcome to join."
     },
     {
         "id":4,
-        "title":"Trusted by thousands.",
-        "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        "title":"Where does TAPA operate?",
+        "text":"TAPA operates across the African continent and has partnerships and affiliations globally."
     },
-    {
-        "id":5,
-        "title":"Best Price Ever",
-        "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
-    },
+
     {
         "id":6,
-        "title":"Personalized Service.",
-        "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
-    },
-    {
-        "id":7,
-        "title":"24/7 support.",
-        "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
-    },
-    {
-        "id":8,
-        "title":"Financing made easy.",
-        "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
-    },
-    {
-        "id":9,
-        "title":"Trusted by thousands.",
-        "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
-    },
-    {
-        "id":10,
-        "title":"Best Price Ever",
-        "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        "title":"How can I stay updated with TAPA's activities?",
+        "text":"Subscribe to our newsletter, follow us on social media, or visit our website regularly for updates and new initiatives."
     }
 ]

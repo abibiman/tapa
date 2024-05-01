@@ -35,11 +35,9 @@ class Blogs extends Component {
                     <div className="section-header">
                         <div className="section-heading">
                             <h5 className="text-custom-blue">Our Blog</h5>
-                            <h3 className="text-theme fw-700">Our Weekly Construction Blog</h3>
+                            <h3 className="text-theme fw-700">Our Weekly Africa Blog</h3>
                         </div>
-                        <div className="section-description">
-                            <p className="text-light-white">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>
-                        </div>
+     
                     </div>
                     <div className="row">
                         <div className="col-12">

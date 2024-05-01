@@ -10,7 +10,7 @@ class Team extends Component {
                     <div className="section-header">
                         <div className="section-heading">
                             <h5 className="text-custom-blue">Our Team</h5>
-                            <h3 className="text-custom-white fw-700">Meet Our Awarded Team</h3>
+                            <h3 className="text-custom-white fw-700">Meet Our Leadership</h3>
                         </div>
                         <div className="section-description">
                             <p className="text-custom-white">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>

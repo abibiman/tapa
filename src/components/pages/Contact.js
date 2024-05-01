@@ -13,7 +13,7 @@ class Contact extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Cali - Constructions & Shop - React Template | {pagelocation}</title>
+                    <title>TAPA | {pagelocation}</title>
                     <meta
                         name="description"
                         content="#"
@@ -22,7 +22,8 @@ class Contact extends Component {
                 <Header />
                 <Breadcrumbs breadcrumb={{ pagename: pagelocation }} />
                 <Content />
-                <Quoteform />
+                <br></br>                 <br></br>                 <br></br>                 <br></br>                 <br></br>
+
                 <Footer />
             </Fragment>
         );
