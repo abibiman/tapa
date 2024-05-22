@@ -11,32 +11,16 @@
     import Patience from '../../../assets/images/team/patience.jpeg'
     import Stephanie from '../../../assets/images/team/stephanie.jpeg'
     import Zynnell from '../../../assets/images/team/zynell.jpeg'
+    import Remigius from '../../../assets/images/team/Remigius.jpeg'
+    import Steph from '../../../assets/images/team/stpp.jpeg'
+    import Basil from '../../../assets/images/team/Basil.jpeg'
 
     
 
     const teaminfo = [
-        {
-            "id": 1,
-            "name": "Sheila T. Gregory, Ph.D.",
-            "role": "Director, Educational Leadership & Administration ",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
-            "description": "Dr. Gregory has served in various faculty and administrative positions over the years"
-        },
-        {
-            "id": 2,
-            "name": "Ms. Yvonne White",
-            "role": "CTO",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
-            "description": "Jane is a leading expert in..."
-        },
 
-        {
-            "id": 3,
-            "name": "Michael E. Orok, Ph.D.",
-            "role": "Associate Vice President for Research and Academic Affairs",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
-            "description": "Jane is a leading expert in..."
-        },
+
+
 
         {
             "id": 4,
@@ -52,18 +36,19 @@
             "image": Fredoline,
             "description": "Jane is a leading expert in..."
         },
+
         {
-            "id": 6,
-            "name": "Shaaban Fundi, Ph.D. ",
-            "role": "Director, Curriculum and Instructions ",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
+            "id": 116,
+            "name": "Remigius Udenwoke",
+            "role": "Director, African and African American Human Relations",
+            "image": Remigius,
             "description": "Jane is a leading expert in..."
         },
         {
             "id": 7,
             "name": "Basil Ibenyenwa ",
             "role": "Director, Project Management ",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
+            "image": Basil,
             "description": "Jane is a leading expert in..."
         },
         {
@@ -105,6 +90,34 @@
             "id": 12,
             "name": "Stephanie Boswell ",
             "role": "Director, African and African American Human Relations ",
+            "image": Steph,
+            "description": "Jane is a leading expert in..."
+        },
+        {
+            "id": 1,
+            "name": "Sheila T. Gregory, Ph.D.",
+            "role": "Director, Educational Leadership & Administration ",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
+            "description": "Dr. Gregory has served in various faculty and administrative positions over the years"
+        },
+        {
+            "id": 2,
+            "name": "Ms. Yvonne White",
+            "role": "",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
+            "description": "Jane is a leading expert in..."
+        },
+        {
+            "id": 3,
+            "name": "Michael E. Orok, Ph.D.",
+            "role": "Associate Vice President for Research and Academic Affairs",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
+            "description": "Jane is a leading expert in..."
+        },
+        {
+            "id": 6,
+            "name": "Shaaban Fundi, Ph.D. ",
+            "role": "Director, Curriculum and Instructions ",
             "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
             "description": "Jane is a leading expert in..."
         },
